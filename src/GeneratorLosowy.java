@@ -16,7 +16,7 @@ public class GeneratorLosowy extends JFrame {
     // Konstruktor
     public GeneratorLosowy() {
         // Ustawienia okna
-        setTitle("BorderLayout: Generator Losowy");
+        setTitle("Generator Losowy (BorderLayout)");
         setSize(450, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
